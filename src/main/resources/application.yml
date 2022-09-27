@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: jmeterProtoJavaSampler
+netty:
+  default:
+    allocator:
+      max-order: 3
